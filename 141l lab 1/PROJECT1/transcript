@@ -1,0 +1,74 @@
+# Compile of adder.sv was successful.
+# Compile of test_adder.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.test_adder
+# vsim work.test_adder 
+# Loading sv_std.std
+# Loading work.test_adder
+# Loading work.adder
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (8) for port 'sum_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(15).
+# 
+#         Region: /test_adder/dut
+add wave sim:/test_adder/*
+run
+# Compile of adder.sv was successful.
+# Compile of test_adder.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.test_adder
+# vsim work.test_adder 
+# Loading sv_std.std
+# Loading work.test_adder
+# Loading work.adder
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (8) for port 'sum_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(15).
+# 
+#         Region: /test_adder/dut
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (1) for port 'is_odd_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(16).
+# 
+#         Region: /test_adder/dut
+add wave sim:/test_adder/*
+run
+# Compile of adder.sv was successful.
+# Compile of test_adder.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.test_adder
+# vsim work.test_adder 
+# Loading sv_std.std
+# Loading work.test_adder
+# Loading work.adder
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (8) for port 'sum_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(15).
+# 
+#         Region: /test_adder/dut
+add wave sim:/test_adder/*
+run
+# Compile of adder.sv was successful.
+# Compile of test_adder.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.test_adder
+# vsim work.test_adder 
+# Loading sv_std.std
+# Loading work.test_adder
+# Loading work.adder
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (8) for port 'sum_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(15).
+# 
+#         Region: /test_adder/dut
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (1) for port 'is_odd_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(16).
+# 
+#         Region: /test_adder/dut
+add wave sim:/test_adder/*
+run
+# Compile of adder.sv was successful.
+# Compile of test_adder.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim work.test_adder
+# vsim work.test_adder 
+# Loading sv_std.std
+# Loading work.test_adder
+# Loading work.adder
+# ** Warning: (vsim-3015) C:/altera/14.0/PROJECT1/test_adder.sv(32): [PCDPC] - Port size (9 or 9) does not match connection size (8) for port 'sum_o'. The port definition is at: C:/altera/14.0/PROJECT1/adder.sv(15).
+# 
+#         Region: /test_adder/dut
+add wave sim:/test_adder/*
+run
+vlib work1
+vmap work1 work1
+# Modifying C:/altera/14.0/PROJECT1/work.mpf

@@ -1,0 +1,4 @@
+# Compile of adder.sv was successful.
+# Compile of test_adder.sv was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim +altera -do adder_run_msim_rtl_verilog.do -l msim_transcript -gui work.adder

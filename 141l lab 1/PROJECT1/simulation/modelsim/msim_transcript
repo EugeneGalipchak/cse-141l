@@ -1,0 +1,47 @@
+# vsim +altera -do adder_run_msim_rtl_verilog.do -l msim_transcript -gui work.adder 
+# Loading sv_std.std
+# Loading work.adder
+# do adder_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Modifying C:/altera/14.0/PROJECT1/simulation/modelsim/work.mpf
+# 
+# vlog -sv -work work +incdir+C:/altera/14.0/PROJECT1 {C:/altera/14.0/PROJECT1/adder.sv}
+# Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+# -- Compiling module adder
+# 
+# Top level modules:
+# 	adder
+# 
+# Load canceled
+vsim +altera -L cycloneive_ver -L altera_ver -do adder_run_msim_rtl_verilog.do -l msim_transcript -gui -sdftyp /test_adder/dut=C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo -t ns work.adder
+# vsim +altera -L cycloneive_ver -L altera_ver -do adder_run_msim_rtl_verilog.do -l msim_transcript -gui -sdftyp /test_adder/dut=C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo -t ns work.adder 
+# Loading sv_std.std
+# Loading work.adder
+# SDF 10.1e Compiler 2013.06 Jun 12 2013
+# 
+# Loading instances from C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo
+# ** Error: (vsim-SDF-3250) C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo(0): Failed to find INSTANCE '/test_adder/dut'.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# ** Fatal: SDF files require Altera primitive library
+#    Time: 0 ns  Iteration: 0  Instance: /adder File: C:/altera/14.0/PROJECT1/adder.sv
+# FATAL ERROR while loading design
+# Error loading design
+vsim +altera -L cycloneive_ver -L altera_ver -do adder_run_msim_rtl_verilog.do -l msim_transcript -gui -sdftyp /test_adder/dut=C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo -t ns work.adder
+# vsim +altera -L cycloneive_ver -L altera_ver -do adder_run_msim_rtl_verilog.do -l msim_transcript -gui -sdftyp /test_adder/dut=C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo -t ns work.adder 
+# Loading sv_std.std
+# Loading work.adder
+# Loading instances from C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo
+# ** Error: (vsim-SDF-3250) C:/altera/14.0/PROJECT1/simulation/modelsim/adder_v.sdo(0): Failed to find INSTANCE '/test_adder/dut'.
+# 
+# ** Error: (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# 
+# ** Fatal: SDF files require Altera primitive library
+#    Time: 0 ns  Iteration: 0  Instance: /adder File: C:/altera/14.0/PROJECT1/adder.sv
+# FATAL ERROR while loading design
+# Error loading design

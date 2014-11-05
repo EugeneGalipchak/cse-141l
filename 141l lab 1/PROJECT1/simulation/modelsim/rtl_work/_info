@@ -1,0 +1,28 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0\PROJECT1\simulation\modelsim
+vadder
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 ^H78zTbh@APU[i[ZfGgBj3
+I4]]1N1X<;K:S;U=o1;2bg0
+Vmz?mZPZVmmTPT?DQ58jA=1
+!s105 adder_sv_unit
+S1
+Z1 dC:\altera\14.0\PROJECT1\simulation\modelsim
+w1413782465
+8C:/altera/14.0/PROJECT1/adder.sv
+FC:/altera/14.0/PROJECT1/adder.sv
+L0 11
+Z2 OV;L;10.1e;51
+r1
+!s85 0
+31
+!s108 1413824960.944000
+!s107 C:/altera/14.0/PROJECT1/adder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/altera/14.0/PROJECT1|C:/altera/14.0/PROJECT1/adder.sv|
+!s101 -O0
+o-sv -work work -O0
+!s92 -sv -work work +incdir+C:/altera/14.0/PROJECT1 -O0

@@ -1,0 +1,28 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0\PROJECT1b
+vregister
+DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+!i10b 1
+!s100 N@Fg<:8Z>g]zHMF:J>Aoz1
+I>U^:OiznAQoUNCFo[l7GS1
+VU4c5g>OCgGYNc47gal^en2
+!s105 register_sv_unit
+S1
+Z1 dC:\altera\14.0\PROJECT1b
+w1413842944
+8C:/altera/14.0/PROJECT1b/register.sv
+FC:/altera/14.0/PROJECT1b/register.sv
+L0 3
+Z2 OV;L;10.1e;51
+r1
+!s85 0
+31
+!s108 1413853848.875000
+!s107 C:/altera/14.0/PROJECT1b/register.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/altera/14.0/PROJECT1b|C:/altera/14.0/PROJECT1b/register.sv|
+!s101 -O0
+o-sv -work work -O0
+!s92 -sv -work work +incdir+C:/altera/14.0/PROJECT1b -O0

@@ -1,0 +1,8 @@
+C:/altera/14.0/PROJECT1/adder.sv {1 {vlog -work work -sv C:/altera/14.0/PROJECT1/adder.sv
+Model Technology ModelSim ALTERA vlog 10.1e Compiler 2013.06 Jun 12 2013
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}

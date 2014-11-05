@@ -1,0 +1,115 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\14.0\PROJECT1b
+Xdefinitions_sv_unit
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 BjT>4]LU4bGg7`5J?6nN21
+Z3 I_LOlgQ0RZEJG=I;4aC;Oz3
+Z4 V_LOlgQ0RZEJG=I;4aC;Oz3
+S1
+Z5 dC:\altera\14.0\PROJECT1b
+Z6 w1413931659
+Z7 8C:/Users/Nox/Desktop/141l lab 1/core/lab1/definitions.sv
+Z8 FC:/Users/Nox/Desktop/141l lab 1/core/lab1/definitions.sv
+L0 51
+Z9 OV;L;10.1e;51
+r1
+31
+Z10 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Nox/Desktop/141l lab 1/core/lab1/definitions.sv|
+Z11 o-work work -sv -O0
+!i10b 1
+!i103 1
+!s85 0
+Z12 !s108 1413939501.558000
+Z13 !s107 C:/Users/Nox/Desktop/141l lab 1/core/lab1/definitions.sv|
+!s101 -O0
+vreg_file
+R1
+!i10b 1
+Z14 !s100 HnM1CDBnb3Z7`a`0<AGXF2
+Z15 IHmaiWZh27DV_c^nO7YJB_1
+Z16 VD74VOFVKJXa3lQF`;:Obz1
+Z17 !s105 reg_file_sv_unit
+S1
+R5
+R6
+Z18 8C:/Users/Nox/Desktop/141l lab 1/core/lab1/reg_file.sv
+Z19 FC:/Users/Nox/Desktop/141l lab 1/core/lab1/reg_file.sv
+L0 2
+R9
+r1
+!s85 0
+31
+!s108 1413939501.886000
+!s107 C:/Users/Nox/Desktop/141l lab 1/core/lab1/reg_file.sv|
+Z20 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Nox/Desktop/141l lab 1/core/lab1/reg_file.sv|
+!s101 -O0
+R11
+vregister
+R1
+Z21 !s100 N@Fg<:8Z>g]zHMF:J>Aoz1
+Z22 IO1:d6FjNLGnXGjZ1gFhOP1
+Z23 VU4c5g>OCgGYNc47gal^en2
+Z24 !s105 register_sv_unit
+S1
+R5
+Z25 w1413842944
+Z26 8C:/altera/14.0/PROJECT1b/register.sv
+Z27 FC:/altera/14.0/PROJECT1b/register.sv
+L0 3
+R9
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|-sv|C:/altera/14.0/PROJECT1b/register.sv|
+R11
+Z29 !s108 1413853918.987000
+Z30 !s107 C:/altera/14.0/PROJECT1b/register.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_file_tb
+R1
+Z31 I1:;K[fh8PLJ3O5_hfSoG32
+Z32 V<A<KhjCalWgFVGfPo806h2
+S1
+R5
+Z33 w1413843226
+Z34 8C:/altera/14.0/PROJECT1b/test_register.sv
+Z35 FC:/altera/14.0/PROJECT1b/test_register.sv
+L0 6
+R9
+r1
+31
+R11
+Z36 !s100 FALZDL<KW69Oz;4^N@O2V2
+Z37 !s105 test_register_sv_unit
+Z38 !s108 1413843337.200000
+Z39 !s107 C:/altera/14.0/PROJECT1b/test_register.sv|
+Z40 !s90 -reportprogress|300|-work|work|-sv|C:/altera/14.0/PROJECT1b/test_register.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_register
+R1
+Z41 !s100 cVcZjO6n`d^Z;J:Aa8b^k1
+Z42 I4]5OfAdPeYXQKbaF7NlhV3
+Z43 VNMAMU=7T;RHRn0YW5dcG[0
+R37
+S1
+R5
+Z44 w1413847281
+R34
+R35
+L0 3
+R9
+r1
+31
+R40
+R11
+Z45 !s108 1413853919.112000
+R39
+!i10b 1
+!s85 0
+!s101 -O0
